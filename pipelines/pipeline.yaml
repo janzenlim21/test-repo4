@@ -1,5 +1,5 @@
 jobs:
-- job: '<PROJECT-NAME-REPLACE>'
+- job: 'testrepo4'
   pool:
     vmImage: 'ubuntu-latest' # other options: 'macOS-latest', 'windows-latest'
   strategy:
